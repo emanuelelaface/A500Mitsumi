@@ -6,6 +6,10 @@ THE PROJECT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IM
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+<p align="center">
+  <img src="https://github.com/emanuelelaface/A500Mitsumi/blob/main/img/Mitsumi_pcb.jpg" alt="Schematic" style="width: 100%;">
+</p>
+
 Here there is the BOM for this board with the original component pats. Unfortunately not all of them are available
 and some of them are very expensive. If I will have time I will try to build a cheap replacement.
 
