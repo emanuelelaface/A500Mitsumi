@@ -17,7 +17,7 @@ and some of them are very expensive. If I will have time I will try to build a c
 
 **Crystal 3.000MHz** The original part is ceramic, but this should work: https://www.aliexpress.com/item/1005002978924496.html
 
-**2 x BC458C** it exists the 2S485 but I am not sure is the same, otherwise someone suggests the KSC1845FTA as alternative.
+**2 x BC458C** This is discontinued, but it exists the 2SC458 (https://www.aliexpress.com/w/wholesale-2SC458.htm), otherwise someone suggests the KSC1845FTA as alternative.
 
 ## Resistors and Capacitors<br>
 These components are available everywhere<br>
