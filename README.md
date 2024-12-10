@@ -37,7 +37,7 @@ These components are available everywhere<br>
 2 x 1nF<br>
 6 x 100nF<br>
 
-1 x 1uF 16V<br>
+1 x 1uF 50V<br>
 1 x 10uF 16V<br>
 1 x 22uF 16V<br>
 
