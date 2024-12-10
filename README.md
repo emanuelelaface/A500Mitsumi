@@ -47,5 +47,5 @@ Only on used market. I will think about a possible replacement with 3d printed p
 **DRV GREEN**<br>
 
 ## Connector to membrane<br>
-**31pin  Connector** The original is the MOLEX 39532314 (https://www.molex.com/en-us/products/part-detail/0039532314) but it is impossible to find it.<br>
-Maybe the Amphenol FCI HLW31R-2C7LF can do the job https://www.mouser.it/ProductDetail/Amphenol-FCI/HLW31R-2C7LF?qs=WBZOdOMIekV2voD%252BzNTD0A%3D%3D
+**31pin  Connector** The original is the MOLEX 39532314 [Molex](https://www.molex.com/en-us/products/part-detail/0039532314) but it is impossible to find it.<br>
+Maybe the Amphenol FCI HLW31R-2C7LF can do the job [Mouser](https://www.mouser.it/ProductDetail/Amphenol-FCI/HLW31R-2C7LF?qs=WBZOdOMIekV2voD%252BzNTD0A%3D%3D)
