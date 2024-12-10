@@ -19,7 +19,7 @@ and some of them are very expensive. If I will have time I will try to build a c
 **74LS27** [Mouser](https://eu.mouser.com/ProductDetail/Texas-Instruments/SN74LS27N?qs=sGAEpiMZZMutXGli8Ay4kP28D9wZ8SQIwsPDjIqEADE%3D), [AliExpress](https://www.aliexpress.com/w/wholesale-74LS27.html)<br>
 **HA17555** [Mouser](https://eu.mouser.com/ProductDetail/Texas-Instruments/NE555P?qs=rkhjVJ6%2F3EIf4CWgjIKuKQ%3D%3D), [AliExpress](https://www.aliexpress.com/w/wholesale-HA17555.html)<br>
 
-**Crystal 3.000MHz** The original part is ceramic, but this should work: https://www.aliexpress.com/item/1005002978924496.html
+**Crystal 3.000MHz** The original part is ceramic, but this should work: [AliExpress](https://www.aliexpress.com/item/1005002978924496.html)
 
 **2 x BC458C** This is discontinued, but it exists the 2SC458 [AliExpress](https://www.aliexpress.com/w/wholesale-2SC458.htm), otherwise someone suggests the KSC1845FTA [Mouser](https://eu.mouser.com/ProductDetail/onsemi-Fairchild/KSC1845FTA?qs=UMEuL5FsraDCmxWozTypUA%3D%3D) as alternative.
 
